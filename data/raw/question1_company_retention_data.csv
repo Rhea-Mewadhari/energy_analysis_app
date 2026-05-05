@@ -1,0 +1,11 @@
+company_id,company_name,company_type,remote_policy,annual_turnover_rate,promotion_rate,average_tenure_years,raise_frequency_rate,new_employees_2024,new_remote_employees_2024
+C001,Nordic Green Energy,International Energy,Full Remote,10.2,12.5,5.0,53.7,80,53
+C002,Baltic Renewables,International Energy,Full Remote,11.5,10.9,4.5,53.7,56,15
+C003,EnerTech Global,Tech-Energy,Full Remote,14.4,14.2,5.3,53.1,60,56
+C004,Energija Lietuva,Local Energy,Hybrid,10.2,10.7,4.4,63.7,50,17
+C005,Vilnius Grid Systems,Local Energy,Hybrid,13.4,18.6,4.2,59.7,38,22
+C006,Lithuanian Solar Works,Local Energy,Hybrid,18.9,14.1,3.4,59.2,55,13
+C007,Kaunas Infrastructure Energy,Local Energy,Mostly On-site,20.7,10.1,3.1,50.2,78,4
+C008,Baltic Thermal Power,Local Energy,Mostly On-site,20.7,8.1,3.1,57.7,85,6
+C009,RenewGrid Europe,International Energy,Hybrid,17.4,13.3,4.3,58.4,30,31
+C010,FutureWind Analytics,Tech-Energy,Full Remote,12.0,13.2,4.7,59.8,64,45
